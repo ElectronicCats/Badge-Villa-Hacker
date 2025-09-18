@@ -2,7 +2,7 @@
 
 ## Technology
 
-- Puya CH32V003
+- CH32V003
 - NRF24L01
 - Display OLED
 - 2x AAA Battery Holder
