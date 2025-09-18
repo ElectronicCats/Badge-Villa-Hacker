@@ -1,4 +1,4 @@
-# LA Villa Hacker 2025 Badge
+# La Villa Hacker 2025 Badge
 
 ## Technology
 
